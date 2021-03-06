@@ -1,5 +1,3 @@
-# Data-Analysis-in-R
-
 # KNN-Imputation
 The dataset used for the imputation can be found on the link: https://www.kaggle.com/carlolepelaars/toy-dataset
 The code for this implementation can be found in 'knn_imputation.R'.
